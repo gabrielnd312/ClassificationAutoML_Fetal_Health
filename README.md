@@ -3,7 +3,7 @@
 # ClassificationAutoML_Fetal_Health
 
 <p align="center">
-  <img src="fetaL-health_img.jpg" >
+  <img src="fetal-health_img.jpg" >
 </p>
 
 
